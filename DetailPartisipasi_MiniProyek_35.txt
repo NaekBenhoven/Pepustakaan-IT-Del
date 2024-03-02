@@ -1,0 +1,16 @@
+11320005_Scintya Leony Geraldine Lumban Tobing
+11320043_Bryan Oliver Batuara
+11320043_Rut Ferwati Lumbantoruan
+
+Topik Yang Dipilih : 3). Perpustakaan IT Del
+
+11320043_Rut Ferwati Lumbantoruan (35%)
+	Kontribusi : 	1. Mengerjakan Pencarian buku berdasarkan ID
+			2. Mengerjakan Pencarian buku berdasarkan ISBN
+					
+11320043_Bryan Oliver Batuara (30%)
+	Kontribusi : 	1. Mengisi data pada header dan data buku pada driver 
+	
+11320005_Scintya Leony Geraldine Lumban Tobing (35%)
+	Kontribusi : 	1. Mengerjakan Menampilkan semua data buku  
+			2. Mengerjakan Insertion untuk penambahan Buku
